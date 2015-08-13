@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:layout_margin="20dp" >
+    
+    <TextView
+        android:id="@+id/legalNoticeTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:drawableTop="@drawable/pingping"
+        android:drawablePadding="10dp"
+        android:gravity="center"
+    	android:textAppearance="?android:attr/textAppearanceMedium"
+    	android:layout_marginBottom="20dp"
+    	android:layout_marginTop="10dp" />
+
+    <TextView
+        android:id="@+id/legalNoticeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/legalNoticeView_text" />
+
+</LinearLayout>
+</ScrollView>

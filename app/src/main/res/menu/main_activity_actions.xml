@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_refresh"/>
+    <item
+        android:id="@+id/action_createNewServer"
+        android:icon="@drawable/ic_action_new"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_createNewServer"/>
+    <item
+        android:id="@+id/action_legalNotice"
+        android:icon="@drawable/ic_action_about"
+        android:showAsAction="never"
+        android:title="@string/action_legalNotice"/>
+
+</menu>

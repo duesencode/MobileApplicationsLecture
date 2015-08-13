@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PingPing</string>
+    <string name="action_createNewServer">Server hinzufügen</string>
+    <string name="action_legalNotice">Impressum</string>
+    <string name="action_refresh">Aktualisieren</string>
+    <string name="legalNoticeView_text">Dirk Fritz\n\nPraktikum Mobile Applications\nWS2013/14\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.\n\n</string>
+    <string name="legalNoticeView_title">Impressum</string>
+    <string name="detailView_lastUpdate">Letzte Aktualisierung</string>
+    <string name="detailView_edit">Bearbeiten</string>
+    <string name="detailView_delete">Löschen</string>
+    <string name="action_accept">Akzeptieren</string>
+    <string name="addEditServerView_url">URL: http://www.example.com</string>
+    <string name="addEditServerView_alias">Alias</string>
+    <string name="mainView_lastRefreshLabel">Letzte Aktualisierung:</string>
+    <string name="mainView_lastRefreshTime">Keine Daten</string>
+    <string name="detailView_updateTimeNoData">Keine Daten</string>
+    <string name="detailActivity_deletedServerMessage">Server wurde entfernt</string>
+    <string name="addEditServerActivity_serverEditedMessage">Server wurde bearbeitet</string>
+    <string name="addEditServerActivity_urlInvalidMessage">URL ist ungültig</string>
+    <string name="addEditServerActivity_urlExistsMessage">Diese URL ist bereits vorhanden</string>
+    <string name="addEditServerActivity_serverAddedMessage">Server wurde hinzugefügt</string>
+    <string name="addEditServerActivity_serverExistedMessage">Server existierte bereits. Reaktiviere diesen mit dem Alias</string>
+    <string name="addEditServerActivity_serverExistsMessage">Es existiert bereits ein Server mit der URL</string>
+    <string name="detailActivity_dialogConfirm">Ja</string>
+    <string name="detailActivity_dialogCancel">Abbrechen</string>
+    <string name="detailActivity_dialogTitle">Löschen</string>
+    <string name="detailActivity_dialogMessage">Server wirklich löschen?</string>
+    <string name="mainActivity_listEmptyMessage">Keine Server angelegt</string>
+    <string name="detailActivity_serverOffline">Offline</string>
+    <string name="detailActivity_serverOnline">Online</string>
+    <string name="detailActivity_serverNoStatus">Status unbekannt</string>
+    <string name="detailActivity_serverNoData">Keine Daten</string>
+    <string name="mainActivity_dialogConfirm">OK</string>
+    <string name="mainActivity_dialogTitle">Keine Internetverbindung</string>
+    <string name="mainActivity_dialogMessage">Die Server können nicht aktualisiert werden.</string>
+    <string name="listAdapter_offline">Offline</string>
+    <string name="listAdapter_online">Online</string>
+    <string name="listAdapter_nodata">Keine Daten</string>
+    <string name="availability_high">Hohe Verfügbarkeit</string>
+    <string name="availability_available">Verfügbar</string>
+    <string name="availability_low">Schlechte Verfügbarkeit</string>
+    <string name="availability_no">Score nicht verfügbar</string>
+
+</resources>
